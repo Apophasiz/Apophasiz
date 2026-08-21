@@ -1,10 +1,10 @@
 <div align="center">
-<h1> Welcome to my domain, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h1>
+<h1> No need to mention it, <br>but you’re welcome here! <img src="https://i.imgur.com/kXIjLNj.png" width="180"></h1>
 </div>
 
 <div align="center" width="50">
 
-<img src="https://i.imgur.com/pwSgI8k.gif" alt="Welcome!" width="1400"/>
+<img src="ApophasisLogo.png" alt="Apophasis Logo" align="center" width="350"/>
 
 </div>
 
@@ -12,11 +12,11 @@
 
 <div align="center">
 
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better, things can always be better!! <br>
+It goes without saying, but please feel free to clone/fork projects, raise issues, and submit PRs if you think something could be better! <br>
 Also don't be afraid to ask anything, you can do it <a href="https://github.com/Alowna/Alowna/issues/new"><b>here</b></a><br>
 or <a href="mailto:alonum2004@gmail.com"><b>mail</b></a> me
 
-<i>Follow me around the web:</i><br>
+<i>No need to say you’ll find me around the web… but you probably will:</i><br>
 
 <a href="https://br.linkedin.com/in/alowna" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="http://lattes.cnpq.br/8517034427164992" target="_blank"><img src="https://img.shields.io/badge/Lattes-%230077C9.svg?&style=flat-square&logo=lattes&logoColor=white" alt="Lattes"></a>
@@ -30,7 +30,7 @@ or <a href="mailto:alonum2004@gmail.com"><b>mail</b></a> me
 
 <div align="left">
 <h2>About</h2>
-Currently exploring my passions at the crossroads of tech and spatial analysis. I'm a Geography student with a background in Systems Analysis, building small projects to level up my dev skills. I'm constantly learning and looking for ways to integrate my geographical knowledge with modern technologies, currently focusing on Web Development and Cloud ecosystems.
+I probably shouldn’t go into everything I’m currently working on, but I’m exploring my passions at the crossroads of tech and spatial analysis. I’m a Geography student with a background in Systems Analysis, building small projects to sharpen my dev skills. I won’t get into how much I’m still learning, but I’m constantly looking for ways to bring geographical knowledge into modern technology — currently focusing on Web Development and Cloud ecosystems.
   
 </div>
 
@@ -198,7 +198,7 @@ Currently exploring my passions at the crossroads of tech and spatial analysis. 
 
 <h2 align="center">GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alowna&theme=dark-aura&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apophasiz&theme=dark-aura&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%">
 </div>
 </br>
 </br>
